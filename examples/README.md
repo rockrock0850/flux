@@ -45,4 +45,4 @@ This is an advanced example. It pulls a lot of the concepts from previous
 examples into a single application. This implements TodoMVC where the data
 is persisted and requested through a simple server. The server simulates
 delays and errors. In the example we will handle things like optimistic
-updates, loading states, and failing API requests.
+updates, loading states, and failing API requests test.
