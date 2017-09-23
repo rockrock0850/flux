@@ -1,4 +1,4 @@
-# flux-todomvc
+# flux-todomvcc
 
 This example is where you should start. It walks you through creating the
 classic [TodoMVC](http://todomvc.com/) application using a simple Flux
