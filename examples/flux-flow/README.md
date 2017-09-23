@@ -19,7 +19,7 @@ anything for this example._
 # Differences from flux-shell
 
 The primary differences from the `flux-shell` project that are necessary to use
-Flow are:
+Flow are test:
 
 1. Copy the `Flux` library definitions from [`./flow`](./flow)
 2. Create a [`.flowconfig`](./.flowconfig) file with the correct options
